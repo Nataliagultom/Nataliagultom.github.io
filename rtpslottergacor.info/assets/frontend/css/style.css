@@ -1,0 +1,675 @@
+body {
+    background: url(https://cdn.d32jers.com/rtpslottergacor.info/BG-PrediksiSlot.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+body {
+    color: #fff
+}
+
+.jadwal {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    padding-top: 20px;
+    padding-right: 40px
+}
+
+.nav-menu {
+    margin-top: 5px;
+    border-radius: 5px
+}
+
+.navbar .nav>li>a {
+    position: relative !important;
+    color: #fff
+}
+
+.nav-running-text {
+    background: #4f16c3;
+    height: 30px
+}
+
+.active {
+    background: linear-gradient(to right, #5808fb, #9929ea)
+}
+
+div.col-md-4.card-win {
+    width: auto !important
+}
+
+.card-win {
+    background: linear-gradient(to right, #5808fb, #9929ea);
+    padding: 3px;
+    margin: 8px
+}
+
+.wrapper {
+    width: 100%;
+    padding: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    position: relative;
+    z-index: 0
+}
+
+.footer {
+    background: linear-gradient(to right, #5808fb, #9929ea);
+    color: #fff
+}
+
+#features-text {
+    color: #f0f8ff
+}
+
+#max-img {
+    padding-top: 10px;
+    width: 80px
+}
+
+div#max-img.col-xs-4 {
+    width: 60px;
+    height: 45px;
+    padding-left: 5px;
+    padding-right: 0
+}
+
+img.img-fluid.rounded-start {
+    width: 60px;
+    height: 60px
+}
+
+#max-nilai {
+    color: #ff0;
+    font-weight: 700
+}
+
+#max-detail {
+    width: 120px;
+    font-size: 14px;
+    padding-right: 0;
+    padding-left: 30px
+}
+
+#max-url {
+    padding-top: 26px;
+    width: 120px
+}
+
+.card {
+    float: left;
+    width: 20%;
+    background: 0 0;
+    border: none;
+    text-align: center;
+    position: relative
+}
+
+.card-content {
+    margin: 7px;
+    color: #fff;
+    font-size: 12px;
+    border: none;
+    overflow: hidden;
+    position: relative
+}
+
+.percent {
+    height: 27px;
+    display: flex;
+    overflow: hidden;
+    line-height: 0;
+    font-size: .75rem;
+    background-color: #e9ecef;
+    position: relative;
+    z-index: 1;
+    border-radius: 10px
+}
+
+.percent p {
+    z-index: 15;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 700;
+    transform: translateY(14px);
+    color: #000
+}
+
+.percent-bar {
+    background-image: linear-gradient( 45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+    background-size: 1rem 1rem;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-pack: center;
+    justify-content: center;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    transition: width .6s ease;
+    -webkit-animation: progress-bar-stripes 1s linear infinite;
+    animation: progress-bar-stripes 1s linear infinite;
+    z-index: 10
+}
+
+.yellow {
+    background-color: #ffc107
+}
+
+.green {
+    background-color: #28a745
+}
+
+.red {
+    background-color: #dc3545
+}
+
+.hover-btn {
+    position: absolute;
+    opacity: 0;
+    background-color: rgba(0, 0, 0, .65);
+    transition: all .45s ease-in-out;
+    z-index: 10;
+    width: 100%;
+    height: 145px
+}
+
+.play-btn {
+    font-size: 15px;
+    font-weight: bolder;
+    text-decoration: none;
+    color: #337ab7;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    margin: 25% auto;
+    padding: 8px;
+    background: linear-gradient(to right, #64ff45, #a8ff00)
+}
+
+.img-zoom {
+    transition: all .45s ease-in-out;
+    height: 141px
+}
+
+.hover-btn:hover {
+    opacity: 100%
+}
+
+.hover-btn:hover~.img-zoom {
+    transform: scale(1.2);
+    position: relative
+}
+
+nav ul li {
+    list-style: none;
+    float: left;
+    padding-right: 20px
+}
+
+nav ul li a {
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #280079;
+    padding: 8px 10px;
+    cursor: pointer;
+    font-weight: 700
+}
+
+nav ul li a:hover {
+    text-decoration: none;
+    color: #fff;
+    background: linear-gradient(to right, #5808fb, #9929ea)
+}
+
+.navbar .nav>li>a:focus,
+.navbar .nav>li>a:hover {
+    background-color: #9531ff
+}
+
+.card-guide {
+    background: linear-gradient(to bottom, #9929ea, #5808fb);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px
+}
+
+.card-guide p.title {
+    color: #f4cc06;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    font-weight: 700;
+    font-size: 16px
+}
+
+.card-body {
+    padding: 1px;
+    text-align: justify
+}
+
+a.btn.btn-yellow-guide,
+a.btn.btn-yellow-bandar {
+    border-radius: 5px;
+    text-decoration: none;
+    color: #000;
+    background: linear-gradient(to right, #fed907, #fdff35);
+    padding: 5px 8px;
+    cursor: pointer;
+    font-weight: 700;
+    min-width: 120px
+}
+
+a.btn.btn-green-guide,
+a.btn.btn-green-bandar {
+    border-radius: 5px;
+    text-decoration: none;
+    color: #000;
+    background: linear-gradient(to right, #64ff45, #a8ff00);
+    padding: 5px 8px;
+    cursor: pointer;
+    font-weight: 700;
+    min-width: 120px
+}
+
+.card-footer {
+    text-align: center
+}
+
+.d-flex-center {
+    display: flex;
+    justify-content: center
+}
+
+.d-flex-center>a.btn.btn-transparent {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700
+}
+
+.bandar-img,
+.bandar-btn {
+    justify-content: center;
+    text-align: center
+}
+
+.popup-head {
+    background: linear-gradient(to right, #5808fb, #9929ea);
+    width: 347px;
+    margin: 2% auto;
+    margin-top: 0%;
+    font-size: 18px
+}
+
+div.col-6.popup-head>center {
+    height: 40px;
+    padding-top: 10px
+}
+
+.popup-container {
+    display: none;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: 1000;
+    background: #080808b0;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0
+}
+
+.popup-body {
+    width: 347px;
+    height: 550px;
+    margin: 2% auto;
+    background: #2c0085;
+    border-radius: 0;
+    color: #fff;
+    margin-top: 150px
+}
+
+.popup-img {
+    width: 450px;
+    height: 555px;
+    margin: 8% auto
+}
+
+.popup-content-head {
+    padding: 10% auto
+}
+
+.popup-close {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    background: #fff;
+    color: #000;
+    float: right;
+    padding: 5px;
+    border-radius: 100px;
+    margin-top: -50px
+}
+
+.popup-provider {
+    float: left
+}
+
+.popup-stake {
+    float: right
+}
+
+.popup-label {
+    background: linear-gradient(to right, #5808fb, #9929ea);
+    width: 347px;
+    margin: 2% auto;
+    height: 30px;
+    padding-top: 5px;
+    font-style: italic
+}
+
+.popup-isi {
+    color: #fff;
+    margin-left: 4%;
+    margin-right: 4%
+}
+
+hr {
+    border: 1px #fff solid;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 4%;
+    margin-right: 4%
+}
+
+@media(min-width:769px) {
+    .desktop-only {
+        display: block
+    }
+    .mobile-only {
+        display: none
+    }
+    .container {
+        width: 1060px !important
+    }
+    #nav-header {
+        background: linear-gradient(to right, #5808fb, #9929ea);
+        height: 60px !important
+    }
+    .icon img {
+        width: 50%;
+        height: auto
+    }
+    .nav-running-text {
+        margin-top: 5px;
+        padding: 5px
+    }
+    i.fa.fa-volume-up {
+        margin-left: 35px;
+        font-size: 20px
+    }
+    .nav-menu {
+        background: #4f16c3;
+        text-align: center;
+        width: 1060px;
+        font-weight: 700
+    }
+    .banner {
+        margin-left: 15px
+    }
+    .navbar .nav>li>a {
+        padding: 0 15px;
+        display: inline-block;
+        height: 50px;
+        line-height: 45px
+    }
+    .navbar .nav>li>a>img {
+        max-width: 30px
+    }
+    .max-win,
+    .rtp-slots,
+    .hot-games,
+    .berita,
+    .bandar {
+        font-size: 25px
+    }
+    div.col-xs-4>button {
+        width: 100px;
+        height: 30px;
+        background: linear-gradient(to right, #64ff45, #a8ff00);
+        text-decoration: none;
+        font-weight: 700;
+        border-radius: 5px;
+        border: none !important
+    }
+    .img-post {
+        position: absolute;
+        top: 78%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 16px;
+        background-color: rgba(0, 0, 0, .5);
+        width: 100%;
+        height: auto
+    }
+    .img-name {
+        position: absolute;
+        top: 95%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 16px;
+        background-color: rgba(0, 0, 0, .5);
+        width: 100%;
+        height: auto
+    }
+    .txt {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 14px;
+        font-weight: 700;
+        color: #000
+    }
+    .footer {
+        text-align: center;
+        height: 35px;
+        padding-top: 5px;
+        position: fixed;
+        bottom: -20px;
+        left: 50%;
+        transform: translate(-50%, -50%)
+    }
+    #btn-wd {
+        width: 160px;
+        height: 40px;
+        margin-right: 10px;
+        background-color: #280079;
+        color: #fff;
+        border: 0;
+        border-radius: 10px;
+        font-weight: 700
+    }
+    div.btn-group.btn-group-justified>a>button:hover {
+        background: linear-gradient(to right, #5808fb, #9929ea)
+    }
+    .mg-b-25 {
+        font-size: 25px
+    }
+    .text-yellow {
+        color: #ff0;
+        font-weight: 700
+    }
+}
+
+@media(max-width:768px) {
+    .desktop-only {
+        display: none
+    }
+    .mobile-only {
+        display: block
+    }
+    body {
+        background: url(https://cdn.d32jers.com/rtpslottergacor.info/BG-PrediksiSlot-MB.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center
+    }
+    .container #nav1 {
+        margin-left: -10%
+    }
+    .logo-mb {
+        background: linear-gradient(to right, #5808fb, #9929ea);
+        justify-content: center;
+        text-align: center
+    }
+    .logo-mb img {
+        width: 50%
+    }
+    marquee {
+        margin-left: 10px;
+        padding-top: 5px;
+        height: 20px;
+        width: 320px
+    }
+    .nav-running-text-mb {
+        background: #5808fb
+    }
+    nav ul li {
+        font-size: 10px;
+        margin-bottom: 20px;
+        padding-right: 5px
+    }
+    .banner-mb img {
+        width: 100%
+    }
+    .header-mb {
+        font-weight: 700;
+        font-size: 11px;
+        text-align: center
+    }
+    .jadwal {
+        font-size: 10px
+    }
+    .nav-running-text-mb {
+        border-top: 1px solid #fff
+    }
+    i.fa.fa-volume-up {
+        margin-left: 10px;
+        font-size: 16px
+    }
+    .nav-menu {
+        font-size: 9px;
+        min-height: 0;
+        margin-left: 0%
+    }
+    .navbar .nav>li>a {
+        padding: 2px;
+        height: 30px;
+        line-height: 20px
+    }
+    .navbar .nav>li {
+        display: inline-block;
+        padding-right: 16px;
+        padding-top: 2px;
+        padding-bottom: 2px
+    }
+    .navbar .nav>li>a>img {
+        max-width: 28px
+    }
+    a.active {
+        border-radius: 5px
+    }
+    .max-win,
+    .rtp-slots,
+    .hot-games,
+    .berita,
+    .bandar {
+        font-size: 14px;
+        margin-left: 3% !important;
+        margin-right: 3% !important
+    }
+    .max-win img,
+    .rtp-slots img,
+    .hot-games img,
+    .berita img,
+    .bandar img {
+        width: 28px
+    }
+    #max-detail {
+        width: 120px;
+        font-size: 12px;
+        margin-top: 3px
+    }
+    div.col-xs-4>button {
+        width: 90px;
+        height: 30px;
+        background: linear-gradient(to right, #64ff45, #a8ff00);
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 700;
+        border-radius: 5px;
+        border: none !important;
+        padding-top: 3px
+    }
+    #max-url {
+        width: 90px;
+        padding-left: 40px
+    }
+    .card-content img {
+        width: 98px;
+        height: 70px
+    }
+    div.col-sm-12.card-win {
+        min-height: 80px;
+        border-radius: 5px
+    }
+    .footer-menu {
+        overflow-x: hidden;
+        left: 0;
+        bottom: -2px;
+        width: 100%;
+        position: fixed !important;
+        z-index: 9999;
+        padding-bottom: 1px;
+        background: #280079;
+        text-align: center
+    }
+    .footer {
+        height: 25px
+    }
+    .card {
+        width: 33.3%
+    }
+    .percent {
+        height: 16px
+    }
+    .percent p {
+        z-index: 15;
+        position: absolute;
+        text-align: center;
+        font-size: 12px;
+        transform: translateY(9px)
+    }
+    .navbar {
+        margin-bottom: 2px
+    }
+    .img-post {
+        top: 74%;
+        font-size: 10px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap
+    }
+    .bandar-img img {
+        width: 100%
+    }
+}
